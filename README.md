@@ -1,43 +1,39 @@
-<h1 align="center">Hi 👋, I'm Mansi Ravindra Bagul</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h1>Hi 👋, I'm Mansi Ravindra Bagul</h1>
+
+"🌟 Aspiring Full Stack Web Developer. Let's code together and turn ideas into captivating online experiences! 💻✨ #WebDev"
+<img align="right" alt="Coding" width="500" src="https://img.freepik.com/premium-vector/women-sitting-bean-bag-chair-making-use-laptop-vector-illustration_590570-33.jpg?w=2000">
+## 👩‍💼 Overview About Me 👩‍💼
+- 👩‍💻 I'm from Chalisgaon, Maharashtra.
+- 👩‍💻 Aspiring Full-stack Web Developer
+- 🌐 Web Enthusiast
+- 📚 Constant Learner
+- 🚀 Problem solver
+
+- 👩‍💻 All of my projects are available at [https://github.com/mansibagul82]
+
+- 📫 Reach out to me on mrbagul04@gmail.com****
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnkitSharma745" alt="Ankit Sharma" /></a> </p>
-
-<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif">
-
-- 🔭 I’m currently working on **Frontend development**
-
-- 🌱 I’m currently learning **React.js**
-
-- 👯 I’m looking to contribute on **Open Source Project**
-
-- 👨‍💻 All of my projects are available at mansibagul82
-
-- 💬 Ask me about **PYTHON, HTML, CSS, JavaScript,**
-
-- 📫 How to reach me **mrbagul04@gmail.com**
-Portfolio *https://codepen.io/mansi-Bagul/full/bGZoPgb***
-
-
-<h3 align="left">Connect with me:</h3>
+<h1>🌐 Socials💫</h1>
 <p align="left">
-<a href="https://www.linkedin.com/in/ankit-sharma745" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Ankit Sharma" height="30" /></a>
-</p>
+<a href="https://github.com/mansibagul82" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="[https://www.linkedin.com/in/kishan-kumar08/](https://www.linkedin.com/in/mansi-ravindra-bagul-00a980265/)" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="css3" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="express" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="css3" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="mongodb" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="nodejs" height="40"/> </a> 
+## Skills
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-0082C9?style=flat)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnkitSharma745&show_icons=true&locale=en&layout=compact" alt="AnkitSharma745" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnkitSharma745&show_icons=true&locale=en" alt="Ankit Sharma" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitSharma745&" alt="Ankit Sharma" /></p>
+## Tools
+- ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- ![Replit](https://img.shields.io/badge/Replit-667881?style=flat&logo=replit&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
 <h1 align="left">📊 GitHub Stats</h1>
