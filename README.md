@@ -1,29 +1,32 @@
 <h1>Hi 👋, I'm Mansi Ravindra Bagul</h1>
 
-"🚀 Aspiring Full Stack Web Developer. Let's code together and turn ideas into captivating online experiences! 💻✨ #WebDev"
+"🌟 Aspiring Full Stack Web Developer. Let's code together and turn ideas into captivating online experiences! 💻✨ #WebDev"
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnkitSharma745" alt="Ankit Sharma" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/2uyENRmiUt0AAAAC/coding.gif">
  
-## 🚀 Overview About Me 🚀
-- 👨‍💻 I'm from Chalisgaon, Maharashtra.
-- 👨‍💻 Aspiring Full-stack Web Developer
+## 👩‍💼 Overview About Me 👩‍💼
+- 🛣️ I'm from Chalisgaon, Maharashtra.
+- 👩‍💻 **Aspiring Full-stack Web Developer**
+- 🔭 I’m currently working on **Frontend development**
+- 🌱 I’m currently learning **React.js**
 - 🌐 Web Enthusiast
 - 📚 Constant Learner
 - 🚀 Problem solver
 
-- 👨‍💻 All of my projects are available at [https://github.com/mansibagul82]
+- 👩‍💻 All of my projects are available at [https://github.com/mansibagul82]
 
-- 📫 Reach out to me on mrbagul04@gmail.com****
+- 📫 Reach out to me on **mrbagul04@gmail.com**
 
 
-<h1>🌐 Socials</h1>
+<h1>🌐 Socials💫</h1>
 <p align="left">
-<a href="https://github.com/KishanKumar08" target="_blank">
+<a href="https://github.com/mansibagul82" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/kishan-kumar08/" target="_blank">
+<a href="[https://www.linkedin.com/in/kishan-kumar08/](https://www.linkedin.com/in/mansi-ravindra-bagul-00a980265/)" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/itz_kishan_141/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 
 ## Skills
